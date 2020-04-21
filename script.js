@@ -7,10 +7,10 @@ var resetBtn = document.querySelector("#reset-btn");
 var countCards = 16;
 
 var images = [
-    6, 2, 1, 5,
-    4, 7, 3, 8,
-    2, 5, 1, 6,
-    8, 7, 3, 4,
+    5, 8, 2, 4,
+    1, 6, 3, 7,
+    2, 4, 3, 8,
+    7, 6, 1, 5,
 ];
 
 var deletedCards = 0;
